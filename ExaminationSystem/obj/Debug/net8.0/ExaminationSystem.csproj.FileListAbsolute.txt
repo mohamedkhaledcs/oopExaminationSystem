@@ -1,0 +1,28 @@
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+E:\iti .net\infinity only me\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+E:\iti .net\infinity only me\56- mohamed khaled mohamed abd el-jawad\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll
